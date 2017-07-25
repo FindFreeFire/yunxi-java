@@ -1,5 +1,5 @@
 ### 云犀直播JAVA-SDK, 官方API部分
-@author  findfreefire <1719048237@qq.com>
+@author findfreefire <1719048237@qq.com>
 @link
 @version 1.0
 
